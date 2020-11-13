@@ -6,3 +6,4 @@ Stuff to do:
 Create a new "SuperAdventure" from the bottom, without Scott Lilly's turorial
 Maybe do it in WPF
 Make the enemy display work
+Remember the comments !!!
